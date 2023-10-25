@@ -1,2 +1,4 @@
 # gitbash
 khnjjuggıoıhoo
+gazi
+cbs
